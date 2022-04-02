@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sadeceekinsu
+- 👋 Hi, I’m @ekinsuoguz-ceng
 - 🌱 I’m currently learning C, C++ and C#
 - 📫 How to reach me ekinsuoguz2001@hotmail.com
 
